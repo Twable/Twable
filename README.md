@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushar Wable
+- 👋 Hi, I’m Tushar Wable currently working as a System Admin.
 - 👀 I’m interested in Linux, python, AWS, GCP, Devops
 - 🌱 I’m currently learning - python, AWS, Jenkins, Docker, Kubernates.
 
